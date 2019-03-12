@@ -73,7 +73,7 @@ In this paper we explore the use of topic modeling and specifically LDA as a sou
 # Method 
 In this section, we describe the measures used for our specific application, as well as the standards they were designed to measure. We then discuss our analysis (topic model) in detail, including how we arrived upon the specified number of topics within the standards, and how the results can be used to evaluate the overall textual congruence between the content standards and the test items.
 
-## Content Standards
+### Content Standards
 
 brief description here
 
